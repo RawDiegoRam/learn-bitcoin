@@ -4,7 +4,7 @@
 
 _Bitcoin es volátil, no puedes usarlo como medio de intercambio._
 
-Sí, el precio de bitcoin es volátil, y puede perder o ganar mucho valor en un solo día. Si deseas pagar algo en bitcoin, aún puede hacerlo. Simplemente gasta la misma cantidad que has usado en moneda fiat, pero en bitcoin el mismo día. Sin volatilidad, no habrán pérdidas ni ganancias.
+Sí, el precio de bitcoin es volátil, y puede perder o ganar mucho valor en un solo día. Si deseas pagar algo en bitcoin, aún puedes hacerlo. Simplemente gasta la misma cantidad que has usado en moneda fiat, pero en bitcoin el mismo día. Sin volatilidad, no habrán pérdidas ni ganancias.
 
 ### Desarrollo de Precios  
 _Bitcoin no sirve como reserva de valor debido a sus cambios de precio_
@@ -15,7 +15,7 @@ Puedes considerar a bitcoin como una inversión a largo plazo, ha sido la reserv
 
 Por supuesto, no hay garantía de que este rendimiento continúe para siempre.
 
-En el momento de escribir este artículo, Bitcoin se encontraba en una carrera alcista, que comenzó en el último trimestre de 2020. Esto significa que el precio se apreció durante un período de semanas y meses con pequeños contratiempos intermedios. En mayo de 2021 se produjo una caída significativa, que muchos interpretaron como un retroceso saludable en un mercado sobrecalentado. La última corrida alcista comenzó en 2017 y terminó a principios de 2018. Desde entonces, el precio se ha "lateralizado" o movido relativamente hacia los lados, como se le llama en términos de los comerciantes, lo que significa que no hay un gran movimiento alcista o bajista en el precio.
+En el momento de escribir este artículo, Bitcoin se encontraba en una carrera alcista, que comenzó en el último trimestre de 2020. Esto significa que el precio se apreció durante un período de semanas y meses con pequeños contratiempos intermedios. En mayo de 2021 se produjo una caída significativa, que muchos interpretaron como un retroceso saludable en un mercado sobrecalentado. El último período alcista comenzó en 2017 y terminó a principios de 2018. Desde entonces, el precio se ha "lateralizado" o movido relativamente hacia los lados, como se le llama en términos de los comerciantes (traders), lo que significa que no hay un gran movimiento alcista o bajista en el precio.
 
 ![Evolución del precio de Bitcoin](assets/_Bitcoin-price.png) [^28]
 
@@ -36,7 +36,7 @@ Desde el lanzamiento de Bitcoin en 2009, ha habido varias caídas de precios. De
 
 > No intentes burlar al mercado, no vendas. Solo conserva tus bitcoins. Al menos durante cinco años.
 
-En el caso de un mercado bajista, cuando el precio de bitcoin inevitablemente baja, se perderá valor en términos de dinero fiduciario. Sin embargo, tu pila de bitcoins sigue siendo la misma. Si tienes 0.3 bitcoins en un mercado alcista, también tiene 0.3 bitcoins en un mercado bajista. Tus pérdidas están solo en tu percepción, dependiendo de la moneda o activo con el que compares tus bitcoins en un día determinado. Se paciente, espera, no vendas: la historia indica que retener tus bitcoins a largo plazo es una forma segura de proteger tus valores.
+En el caso de un mercado bajista, cuando el precio de bitcoin inevitablemente baja, se perderá valor en términos de dinero fiduciario. Sin embargo, tu pila de bitcoins sigue siendo la misma. Si tienes 0.3 bitcoins en un mercado alcista, también tiene 0.3 bitcoins en un mercado bajista. Tus pérdidas están solo en tu percepción, dependiendo de la moneda o activo con el que compares tus bitcoins en un día determinado. Sé paciente, espera, no vendas: la historia indica que retener tus bitcoins a largo plazo es una forma segura de proteger tus valores.
 
 > Solo coloca tanto dinero en bitcoins como estés dispuesto a perder. Si no puedes dormir en tiempos de depreciación, es posible que tenga demasiados activos de riesgo en forma de bitcoin.
 
@@ -61,7 +61,7 @@ Está bien, no tienes que hacerlo. No hay un presupuesto mínimo necesario para 
 
 También puedes ganar bitcoins, pero hablaremos más sobre esto en el capítulo 9 "Ganar Bitcoin".
 
-### Bitcoin Fracasará Lomo las Primeras Empresas de Internet
+### Bitcoin Fracasará como las Primeras Empresas de Internet
 
 _Bitcoin es una nueva tecnología. Es el primero de su tipo. Cuando comparamos esto con las primeras compañías de computadoras en la década de 1980 o las plataformas de Internet del boom de las punto com, casi ninguna sobrevivió. Bitcoin fue la primera cadena de bloques en el mercado y podría seguir la misma ruta._
     
