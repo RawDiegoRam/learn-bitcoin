@@ -6,7 +6,7 @@ Los mineros actualmente reciben una recompensa de 6.25 bitcoins por este trabajo
 ### El "Halving": La Reducción a la Mitad
 Las reglas de Bitcoin estipulan que la recompensa para los mineros se reducirá a la mitad cada 210.000 bloques, aproximadamente cada cuatro años. Al principio, esta recompensa era de 50 bitcoins. Desde mayo de 2020 es 6.25 bitcoins. En 2024, esta recompensa se reducirá a la mitad para pasar a ser 3,125 bitcoins por bloque. Este evento se llama comúnmente "el Halving" o la "Reducción a la Mitad".
 
-Satoshi Nakamoto codificó estas mitades en el software del cliente nuclear de Bitcoin (o el "Bitcoin Core"). La cantidad de producción disminuye con el tiempo, lo que resulta en una curva de oferta aplanada.
+Satoshi Nakamoto codificó estas mitades en el software del cliente base de Bitcoin (o el "Bitcoin Core"). La cantidad de producción disminuye con el tiempo, lo que resulta en una curva de oferta aplanada.
 
 ![El código del intervalo del Halving en el software de Bitcoin Core en C++](assets/_halving-interval.jpg)
 
