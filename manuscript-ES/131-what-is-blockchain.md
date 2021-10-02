@@ -11,7 +11,7 @@ La cadena de bloques de Bitcoin no pertenece a nadie, cualquiera puede descargar
 
 **Cadenas de Bloques Abiertas y Autorizadas**
 
-Por favor, toma en cuenta la diferencia entre Bitcoin, que es una cadena de bloques abierta y, por ejemplo, "Diem" (el token del proyecto monetario de Facebook) o la CBDC (de sus siglas in inglés, Moneda Digital del Banco Central) llamada E-Yuan del gobierno chino, que son cadenas de bloques cerradas y centralizadas.
+Por favor, tome en cuenta la diferencia entre Bitcoin, que es una cadena de bloques abierta y, por ejemplo, "Diem" (el token del proyecto monetario de Facebook) o la CBDC (de sus siglas in inglés, Moneda Digital del Banco Central) llamada E-Yuan del gobierno chino, que son cadenas de bloques cerradas y centralizadas.
 
 Una cadena de bloques abierta es accesible para todas las personas, es descentralizada, transparente, sin censura y neutral, lo que la convierte en el dinero revolucionario que es: un sistema global nativo de Internet que está abierto a todos, independientemente de nuestra edad, color, privilegio, género o nación. Bitcoin incluso puede ser utilizado por máquinas. Nadie puede evitar que hagamos transacciones P2P a lo largo y ancho del mundo.
 
