@@ -68,7 +68,7 @@ La gente dice, por ejemplo, que "cada transacción contamina" o que "la contamin
 
 Los mineros de Bitcoin están impulsados por las ganancias, por lo que siempre buscarán la energía más barata, que sea renovable. El carbón y el petróleo siempre serán más caros que la energía hidroeléctrica, geotérmica, de gas, eólica y solar. Sin olvidar la nuclear, que también es una opción que muchos cuentan como energía verde.
 
-Indiscutiblemente, los mineros de Bitcoin están usando energía que de otro modo se desperdiciaría. Hablé con [Sébastien Gouspillou](https://anita.link/103) y [Philippe Bekhazi](https://anita.link/101) dos mineros que utilizan energía hidroeléctrica, quienes confirmaron las declaraciones anteriores.
+Indiscutiblemente, los mineros de Bitcoin están usando energía que de otro modo se desperdiciaría. Hablé con [Sébastien Gouspillou](https://anita.link/103) y [Philippe Bekhazi](https://anita.link/101), dos mineros que utilizan energía hidroeléctrica, quienes confirmaron las declaraciones anteriores.
 
 **Combinación Energética en la Producción de Electricidad**  
 Los mineros de Bitcoin están bastante bien distribuidos en todo el mundo. Si bien es fácil cuantificar la demanda de electricidad, es más difícil cuantificar las fuentes de electricidad ya que la industria minera de Bitcoin sigue siendo una industria altamente privada y seudónima. Por lo tanto, la investigación sobre la electricidad utilizada en la minería estima que el uso de energía renovable varía del 39% (Cambridge Centre, CBECI.org) al 73% en el documento técnico de CoinShares Mining, que concluye:
@@ -91,7 +91,7 @@ Basado en el [trabajo de Hass McCook](https://bitcoinmagazine.com/business/bitco
 
 **Supuesto Final: Bitcoin No es Útil, Por Lo Tanto, Cualquier Uso Energético Para un Bitcoin es un Desperdicio**
 
-Aún si tu decides que Bitcoin no es útil, esta sigue siendo una opinión muy subjetiva. Puede que Bitcoin no tenga sentido para ti, pero podría tener sentido para muchas otras personas. Si está haciendo este argumento, debes estar de acuerdo en que hay muchas otras formas de uso de energía que son a primera vista inútiles o incluso dañinas en su uso, y no reciben la misma cantidad de escrutinio.
+Aún si tu decides que Bitcoin no es útil, esta sigue siendo una opinión muy subjetiva. Puede que Bitcoin no tenga sentido para ti, pero podría tener sentido para muchas otras personas. Si estás haciendo este argumento, debes estar de acuerdo en que hay muchas otras formas de uso de energía que son a primera vista inútiles o incluso dañinas en su uso, y no reciben la misma cantidad de escrutinio. 
 
 Podemos encender miles de millones de luces navideñas cada año para mostrar el espíritu navideño, lo que podría ser completamente inútil para miles de millones de personas con otras creencias. El principal consumo de energía, por ejemplo, en los Estados Unidos, fuera de los mercados civiles, es del Departamento de Defensa. El gobierno de los EE.UU. Utiliza enormes cantidades de energía y es el mayor contaminante del país, posiblemente por ninguna razón legítima que no sea la búsqueda de un control extremo. 
 
