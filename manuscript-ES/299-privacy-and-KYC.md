@@ -8,4 +8,4 @@ Si publicas tu dirección de Bitcoin en Internet o la anuncias en cualquier otro
 
 Bitcoin no es tan anónimo como a menudo se supone. Todos los flujos de caja se pueden analizar con el suficiente esfuerzo. Empresas como Chainalysis se especializan en estas evaluaciones de big data y clientes tales como los bancos, pueden pagar por este servicio. Se está trabajando para mejorar la privacidad de Bitcoin. Durante los próximos dos años, habrá innovaciones aquí que no interfieren con el uso de Bitcoin y ofrecen más protección de datos.
 
-La criptomoneda Monero, que existe desde 2014, ofrece protección de privacidad ya incorporada. Aquí las direcciones no son visibles públicamente y el análisis de blockchain no es posible.
+La criptomoneda Monero, que existe desde 2014, ofrece protección de privacidad ya incorporada. En ella las direcciones no son visibles públicamente y el análisis de blockchain no es posible.
