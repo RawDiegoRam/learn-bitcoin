@@ -6,7 +6,7 @@ Como lo has leído en los capítulos anteriores, la principal fortaleza de Bitco
 
 > "Bitcoin no es ni censurable ni inflable. Estas son sus propiedades más importantes". - **Anita Posch**
 
-Si no tienes esas palabras semilla, no tiene ni los privilegios ni la libertad mencionados anteriormente.
+Si no tienes esas palabras semilla, no tienes ni los privilegios ni la libertad mencionados anteriormente.
 
 ## Los Riesgos de las Carteras de Custodia
 Es importante tener en cuenta que existe una gran diferencia entre las carteras con custodia y las carteras sin custodia. Solo tendrás el control de la frase semilla cuando uses una cartera sin custodia (o auto-hospedada). Las casas de cambio como Coinbase, Kraken, Binance, Bitpanda, etc., no te brindan las llaves privadas de tus propias carteras. Si bien podría ser más conveniente guardar bitcoins en una cartera de una casa de cambios centralizada, esto no hace ninguna diferencia con un banco. Tu no vas a poseer los bitcoins en tu cuenta de una casa de cambios, lo que puede ser un gran problema si esa casa de cambios es pirateada, algo que ya ha sucedido muchas veces. Por ejemplo, les recuerdo a Mt. Gox, el hackeo más grande hasta la fecha que ocurrió en 2014. No pasa un solo día sin casos de cuentas congeladas o de marcación de monedas “en lista negra” y, a veces, la suspensión regulatoria del comercio. Además de eso, estas casa de cambio necesitan que te registres y que cumplas con todos los requisitos de identificación de los clientes, también conocidos como “KYC” (de sus siglas en inglés “conozca a su cliente” y regulaciones contra el lavado de dinero), lo cual es un obstáculo para miles de millones de personas sin documentos apropiados de identidad, excluyéndoles de la banca y ahora del uso de casas de cambio criptográficas también. Además de eso, estas regulaciones KYC están invadiendo nuestra privacidad. Afortunadamente, Bitcoin está diseñado para todos. Para mitigar los riesgos de contraparte de las carteras con custodia, debemos ignorar estas casas de cambio y usar una cartera sin custodia desde el principio.
@@ -39,7 +39,7 @@ A partir de aquí, los pasos son para usuarios experimentados. Te brindarán aú
 
 Puedes llevar estas medidas de seguridad e independencia aún más allá con soluciones de aislamiento de red, configuraciones multi-firmas y más.
 
-En la cima de esta escalera, están surgiendo soluciones financieras descentralizadas como la posibilidad de invertir y de créditos en bitcoins.
+En la cima de esta escalera, están surgiendo soluciones financieras descentralizadas como la posibilidad de préstamos y de créditos en bitcoins.
 
 En última instancia, si todo lo que quieres hacer es protegerte contra la inflación y utilizar Bitcoin como reserva de valor, **llegar al segundo piso, "Tus llaves, Tus monedas" es el objetivo**. Te mostraré cómo alcanzar este nivel de soberanía en los próximos capítulos.
 
