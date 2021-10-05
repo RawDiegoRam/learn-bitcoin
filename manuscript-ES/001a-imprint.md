@@ -11,7 +11,8 @@ Editor: Mark Kersley
 Tipografía: Couper Street Type Co.  
 Diseño de Portada/Dirección de Arte: tzu jan | 自然  
 Boceto del Concepto de Ilustración: @danubastidas  
-Traducción al Epañol: Julio Moros (Telegram: @jjmr009)  
+Traducción al Epañol: Julio Moros (Telegram: @jjmr009)
+Corector de pruebas: Diego Ramirez
 Ilustración: Ilustración de Maleek  
 Rotulación a Mano: Mila Masina  
 
