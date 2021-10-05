@@ -1,6 +1,6 @@
 # La Evolución del Dinero
 
-El 3 de enero de 2009 nació Bitcoin. Desde su creación, el Protocolo de Internet (IP) de la red P2P de Bitcoin ha concatenado un nuevo bloque de datos a una cadena de transacciones, aproximadamente cada 10 minutos. La cadena de bloques de Bitcoin almacena las transacciones en el orden cronológico correcto, un orden que no se puede modificar posteriormente, tan inmutable como el tiempo mismo. Así como el latido de nuestro corazón preserva nuestros cuerpos, este proceso es preservado por un sistema que se basa en la criptografía, la teoría de juegos, las tecnologías de la información y las redes descentralizadas que se mantienen en equilibrio.
+El 3 de enero de 2009 nació Bitcoin. Desde su creación, el Protocolo de Internet (PI) de la red P2P de Bitcoin ha concatenado un nuevo bloque de datos a una cadena de transacciones, aproximadamente cada 10 minutos. La cadena de bloques de Bitcoin almacena las transacciones en el orden cronológico correcto, un orden que no se puede modificar posteriormente, tan inmutable como el tiempo mismo. Así como el latido de nuestro corazón preserva nuestros cuerpos, este proceso es preservado por un sistema que tienen sus fundamentos en la criptografía, la teoría de juegos, las tecnologías de la información y las redes descentralizadas, mantienéndose en equilibrio a sí mismo.
 
 Este sistema autorregulado, tiene las siguientes características:
 
@@ -28,7 +28,7 @@ El dinero criptográfico programable o la "Internet del dinero", como dice Andre
 ## Las Piedras Rai de Yap
 Si Bitcoin suena alucinante y no nos es posible comprender el concepto de una cadena de bloques como la expresión de un libro compartido de registros de hechos verídicos, el Rai de la Isla de Yap es un buen ejemplo para introducirnos hacia algunos conceptos superpuestos.
 
-Los Rai son grandes discos de piedra que se utilizan en la isla Yap en el Pacífico occidental (Micronesia). Fueron "acuñados" de los depósitos de piedra caliza de la isla de Palau y se utilizaron como moneda hasta el siglo XX.
+Los Rai son grandes discos de piedra que se usaron en la isla Yap en el Pacífico occidental (Micronesia). Fueron "acuñados" de los depósitos de piedra caliza de la isla de Palau y se utilizaron como moneda hasta el siglo XX.
 
 ![Piedras Rai con troncos, 1903](assets/_Stone_Money_of_Uap_1903_Jayne,_String_Figures_p160.jpg) [^3]
 
@@ -36,20 +36,20 @@ Las piedras Rai se llevaron a Yap en barco y, debido a su tamaño y peso, no se 
 
 Esto es particularmente importante porque demuestra un uso natural de un libro mayor contable de transacciones. El libro mayor se compartía oralmente entre los habitantes y se reconocía la propiedad y la delegación de esta propiedad, sin que se moviera una sola piedra; todos estuvieron de acuerdo y se formó un consenso. Así es como podemos hacer una comparación con las funciones de la cadena de bloques de Bitcoin; es un libro mayor de registros compartido de todas las transacciones, almacenado simultáneamente en miles de computadoras (nodos) a nivel mundial. [^4]
 
-Otra similitud con Bitcoin está en la creación de las piedras Rai, que resultaba de un trabajo intenso y una forma de prueba de trabajo. Las piedras se tallaron con herramientas manuales, se extrajeron en costas foráneas y se llevaron a la isla en canoa. Una vez que las piedras Rai se volvieron fáciles de fabricar con técnicas modernas, se volvieron menos útiles como dinero, porque ya no eran un indicador confiable del suficiente gasto de energía.
+Otra similitud con Bitcoin está en la creación de las piedras Rai, que resultaba de un trabajo intenso y una forma de prueba de trabajo. Las piedras se tallaron con herramientas manuales, se extrajeron en costas foráneas y se llevaron a la isla en canoa. Una vez que las piedras Rai se volvieron fáciles de fabricar con técnicas modernas, se volvieron menos útiles como dinero, porque ya no eran un indicador confiable del gasto de energía.
 
 Los economistas modernos han considerado las piedras Rai como una forma primitiva de dinero, y a menudo se utilizan como ejemplo para respaldar la tesis de que el valor de algunas formas de dinero puede asignarse simplemente a través de una creencia compartida en dicho valor.[^5] El dinero de hoy día tampoco está respaldado por nada. De hecho, solo está establecido y declarado como moneda de curso legal por reglamentación gubernamental. Por eso, es referencia de valor que utilizamos y, por lo tanto, se percibe como valioso.
 
 
 ## Cómo se Crea el Dinero
 
-> "Se debe confiar en que el banco central no degradará la moneda, pero la historia de las monedas fiduciarias está llena de violaciones a esta confianza". - Satoshi Nakamoto
+> "Se debe confiar en que el banco central no devaluará la moneda, pero la historia de las monedas fiduciarias está llena de violaciones a esta confianza". - Satoshi Nakamoto
 
-Aprender sobre Bitcoin fue una revelación para mí. Hay dos períodos distintos de mi vida, uno antes de Bitcoin y otro después de Bitcoin. Hoy veo las cosas de manera completamente diferente. En mi objetivo de comprender Bitcoin, primero tenía que comprender el sistema monetario actual. ¿Cuáles son las diferencias entre sistemas de divisas como el dólar o el euro, y el Bitcoin? ¿Qué es la inflación? ¿Qué papel juegan los bancos centrales, etc.? Es desconcertante que no aprendamos estos conceptos en la escuela, pero esta falta específica de educación puede, desafortunadamente, ser intencional.
+Aprender sobre Bitcoin fue una revelación para mí. Hay dos períodos distintos de mi vida, uno antes de Bitcoin y otro después de Bitcoin. Hoy veo las cosas de manera completamente diferente. En mi objetivo de comprender Bitcoin, primero tuve que comprender el sistema monetario actual. ¿Cuáles son las diferencias entre sistemas de divisas como el dólar o el euro, y el Bitcoin? ¿Qué es la inflación? ¿Qué papel juegan los bancos centrales, etc.? Es desconcertante que no aprendamos estos conceptos en la escuela, pero esta falta específica de educación puede, desafortunadamente, ser intencional.
 
-Se utilizan 180 divisas en 195 países de todo el mundo. Una divisa es un sistema monetario de uso común, definido por los gobiernos. Muchas jurisdicciones definen su divisa nacional como moneda de curso legal; es dinero declarado por ley, válido para el pago de deudas y no puede ser rechazado como forma de pago.
+Se utilizan 180 divisas en 195 países de todo el mundo. Una divisa es un sistema monetario de uso común, definido por los gobiernos. Muchas jurisdicciones definen su divisa nacional como moneda de curso legal; es dinero declarado por ley, válido para el pago de deudas y que no puede ser rechazado como forma de pago.
 
-Las 180 divisas (el dólar estadounidense, el euro, el yen y la libra esterlina, por ejemplo) se pueden definir dentro de una categoría llamada "dinero fiduciario". Desde 1971, ninguna de estas monedas fiduciarias ha sido respaldada por oro ni por ningún otro activo tangible. El dinero tiene valor porque creemos en él. El dinero es un lenguaje para expresar cuán valioso es algo socialmente. La palabra fiat proviene del latín y significa “permítase que se realice”. El dinero de nuestros días se crea a través del registro de una entrada en un libro de cuentas mayor en formato digital y es solo un número en un sistema de contabilidad. No hay ningún acto de productividad del mundo real detrás de este registro.
+Las 180 divisas (el dólar estadounidense, el euro, el yen y la libra esterlina, por ejemplo) se pueden definir dentro de una categoría llamada "dinero fiduciario". Desde 1971, ninguna de estas monedas fiduciarias ha sido respaldada por oro ni por ningún otro activo tangible. El dinero tiene valor porque creemos en él. El dinero es un lenguaje para expresar cuán valioso es algo socialmente. La palabra fiat proviene del latín y significa “permítase que se realice”. El dinero de nuestros días se crea a través del registro de una entrada en un libro de cuentas mayor en formato digital y es solo un número en un sistema de contabilidad. No hay ningún acto de productividad en el mundo real detrás de este registro.
 
 ¿Quién está a cargo de la creación del dinero? Es una combinación de gobiernos y bancos centrales, junto con bancos comerciales. Es un sistema jerárquico centralizado con guardias en la entrada. No hay acuerdo alguno sobre el límite del suministro monetario o su tasa de emisión.
 
@@ -80,7 +80,7 @@ La creación de dinero artificial a través de los bancos centrales eclipsó la 
 
 "Clásicamente, los bancos centrales mantienen reservas en caso de emergencias, establecen tasas de interés y asignan fondos para estimular o desacelerar las economías después de eventos disruptivos como pánicos o guerras. El papel más reciente que han asumido es el de asegurar todo el sistema financiero e influir en la trayectoria económica de naciones soberanas enteras. Esta es la antítesis del gobierno democrático. Tal oligarquía monetaria opera más allá de las normas y límites democráticos". [^7]
 
-El libro de Naomi Prins sondea la psique de Wall Street, revelando cómo la estructura misma del sistema financiero dependía de que los operadores acudieran en masa a la próxima gran apuesta, independientemente de los riesgos. Además, las _mismas_ personas y familias seguían apareciéndose, de manera cíclica por Wall Street y Washington. Han influido en la economía por debajo de ellos desde sus alturas más elevadas de estatus, dinero privado y cargos públicos, desmantelando las leyes que se interponían en su camino y encontrando lagunas a través de otras. Los bancos privados normalizaron la manipulación del mercado. Los bancos centrales lo convirtieron en una forma de arte, sin límites". [^8]
+El libro de Naomi Prins sondea la psique de Wall Street, revelando cómo la estructura misma del sistema financiero dependía de que los operadores acudieran en masa a la próxima gran apuesta, independientemente de los riesgos. Además, las _mismas_ personas y familias seguían apareciéndose, de manera cíclica por Wall Street y Washington. Influyeron en la economía por debajo de ellos desde sus alturas más elevadas de estatus, dinero privado y cargos públicos, desmantelando las leyes que se interponían en su camino y encontrando lagunas a través de otras. Los bancos privados normalizaron la manipulación del mercado. Los bancos centrales lo convirtieron en una forma de arte, sin límites". [^8]
 
 ### Inflación en la Oferta Monetaria
 
@@ -90,7 +90,7 @@ La oferta monetaria consta de varios tipos de dinero que generalmente se clasifi
 
 La base monetaria (M0) es la cantidad total de divisa en papel físico y moneda metálica que está en circulación en manos del público o en forma de depósitos de la banca comercial resguardados en las reservas del banco central. [^9]
 
-Mientras tengamos efectivo, se tratará de un activo como tal como el bitcoin, es decir, una propiedad de poseemos. Si tomamos nuestro efectivo y lo metemos en el banco, tendremos entonces un pagaré, pero ya no seremos más los dueño de nuestro dinero. Lo mismo que pasa con nuestros bitcoins cuando los metemos a una "exchange" o casa de cambio.
+Mientras tengamos efectivo, se tratará de un activo como tal como el bitcoin, es decir, una propiedad de poseemos. Si tomamos nuestro efectivo y lo metemos en el banco, tendremos entonces un pagaré, pero ya no seremos más los dueño de nuestro dinero. Lo mismo que pasa con nuestros bitcoins cuando los metemos a un "exchange" o a una casa de cambio.
 
 Cualquier otra forma de oferta de dinero fiduciario (formas del tipo M1, M2, M3) se va a componer de "pagarés" respaldados por la base monetaria. [^10]
 
@@ -106,7 +106,7 @@ La cantidad de dinero tipo M2 en circulación en los EE. UU. Fue de **19,7 billo
 
 Cada unidad individual de moneda fiduciaria se ha degradado aproximadamente en un 99% de su valor o más durante una línea de tiempo de varias décadas. Esto significa que los inversionistas necesitan ganar una tasa de interés que exceda a la tasa de inflación real (que no está sucediendo actualmente), o necesitan comprar activos de inversión en su lugar, lo que infla el valor de las acciones y de los bienes raíces en comparación con sus flujos de caja e insta a subir los precios de objetos escasos como los de las bellas artes". [^12]
 
-A la inflación de la oferta monetaria se le suma el hecho de que la población en los EE. UU. Y otras naciones occidentales no está creciendo al mismo ritmo que la oferta monetaria. "La población de los EE. UU. Solía crecer tal vez a un 1,5% anual, y ahora crece más cerca del 0,5% anual. Eso es bastante importante. Mientras tanto, la oferta monetaria amplia ha aumentado en un 25% año tras año, y está en camino de crecer a un 75% adicional durante un período continuo de 5 años en el futuro". [^13]
+A la inflación de la oferta monetaria se le suma el hecho de que la población en los EE. UU. Y otras naciones occidentales no está creciendo al mismo ritmo que la oferta monetaria. "La población de los EE. UU. Solía crecer tal vez a un 1,5% anual, y ahora crece alrededor del 0,5% anual. Eso es bastante importante. Mientras tanto, la oferta monetaria amplia ha aumentado en un 25% año tras año, y está en camino de crecer a un 75% adicional durante un período continuo de 5 años en el futuro". [^13]
 
 Estrictamente hablando, la inflación se produce cuando la oferta monetaria supera el crecimiento del PIB nominal, que consiste en el crecimiento de la población y de la productividad. El Índice de Precios al Consumidor de los EE. UU. muestra que los precios de los bienes subieron porque el valor del dinero disminuyó.
 ![Índice de precios al consumidor de EE. UU. 2020](assets/_Consumer-Price-index-US-2021.png) [^14]
@@ -145,7 +145,7 @@ Vamos a comparemos estas características con el sistema actual de emisión mone
 
 ### El Verdadero Esquema Ponzi
 
-* La única similitud entre Bitcoin y un esquema Ponzi es el efecto de red de la codicia. Pero a diferencia de un Ponzi, nosotros mismos podemos tener las llaves de nuestros bitcoins. No hay ningún banco o actor centralizado que controle nuestros bitcoins. 
+* La única similitud entre Bitcoin y un esquema Ponzi es el efecto de red de la codicia. Pero a diferencia de un Ponzi, usted mismo puede tener las llaves sus bitcoins. No hay ningún banco o actor centralizado que controle sus bitcoins. 
 
 * Bitcoin tiene una oferta limitada. Solo se podrán crear 21 millones de ellos. Bitcoin es finito, la moneda fiduciaria es infinita. No puede haber inflación basada en la oferta monetaria de Bitcoin.
 
@@ -160,7 +160,7 @@ Vamos a comparemos estas características con el sistema actual de emisión mone
 
 ### El Final de Este Tipo de Crecimiento
 
-La desigualdad de la riqueza ha aumentado en los últimos siglos junto con la mercantilización y monetización de los recursos naturales. No queda nada para consumir. Estamos viviendo una lucha por los recursos, por la igualdad de oportunidades contra el establishment y las élites que se enriquecen a través de la corrupción y las ventajas financieras.
+La desigualdad de la riqueza ha aumentado en los últimos siglos junto con la mercantilización y monetización de los recursos naturales. No queda nada para ser consumido. Estamos viviendo una lucha por los recursos, por la igualdad de oportunidades contra el establishment y las élites que se enriquecen a través de la corrupción y las ventajas financieras.
 
 "Otro subproducto de la crisis financiera y la colusión del Banco Central fue el aumento de la ansiedad económica que generó un giro hacia el nacionalismo, desde Brasil hasta Gran Bretaña y Estados Unidos. El impacto del Brexit en el Reino Unido repercutió en todo el mundo cuando los votantes se alejaron del liderazgo en ejercicio y sus políticas económicas fallidas. En Estados Unidos, la victoria electoral de Donald Trump, el presidente multimillonario 'antisistema', fue otra manifestación de esta tendencia. Estos votos históricos no fueron causados directamente por la política del Banco Central, sino que fueron sus efectos.". [^16]
 
